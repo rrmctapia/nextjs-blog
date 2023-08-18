@@ -23,10 +23,6 @@ export default function Home({allPostsData}) {
         <p>
           Hi, my name is Ravi! I am a recent UCSD graduate with a degree in Computer Science with a minor in Design! 
         </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
         <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}></section>
         <h2 className={utilStyles.headingLg}>Blog</h2>
         <ul className={utilStyles.list}>
